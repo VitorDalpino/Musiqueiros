@@ -284,7 +284,7 @@ nav ul li a:hover:before {
 .service-icon {
   width: 60px;
   height: 60px;
-  background-color: rgba(0, 120, 212, 0.1);
+  background-color: #0078d41a;
   border-radius: 50%;
   display: flex;
   align-items: center;
