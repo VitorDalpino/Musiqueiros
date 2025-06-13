@@ -43,4 +43,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar
 ##📄 Licença
 Este projeto é livre para fins educacionais e sem fins lucrativos. Caso deseje reutilizá-lo, cite a fonte e o projeto original.
 
-### Desenvolvido por Vitor Mussi Dalpino e Matheus Da Silva Corrêa
+### Desenvolvido por Vitor Mussi Dalpino e Matheus Da Silva Correa
